@@ -100,12 +100,12 @@ bot = commands.Bot(command_prefix=prefix, intents=intents, self_bot=False, help_
 active_tasks = {}
 selected_target_guild_id = None
 
-SPECIFIC_GIF = "[https://tenor.com/view/pdoxw-circle-gif-4954831240427386212](https://tenor.com/view/pdoxw-circle-gif-4954831240427386212)"
+SPECIFIC_GIF = "https://tenor.com/view/pdoxw-circle-gif-4954831240427386212"
 DEFAULT_EMOJI = "🖕 🗡️ 🩸"
 
 RAID_MESSAGES = [
     "𝐃𝐗 𝐍𝐗𝐑𝐔 𝐎𝐍 𝐓𝐎𝐏!!!",
-    "[https://guns.lol/dxnxru](https://guns.lol/dxnxru)"
+    "https://guns.lol/dxnxru"
 ]
 
 TRASHTALK_EN = [
